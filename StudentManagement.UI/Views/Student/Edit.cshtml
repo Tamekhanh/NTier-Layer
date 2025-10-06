@@ -1,0 +1,37 @@
+@model StudentManagement.Application.DTOs.StudentDto
+
+@{
+    ViewData["Title"] = "Edit Student";
+}
+
+<h2>Edit Student</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Address</label>
+        <input asp-for="Address" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>DOB</label>
+        <input asp-for="Dob" type="date" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>MSSV</label>
+        <input asp-for="Mssv" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Year</label>
+        <input asp-for="Year" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Class</label>
+        <input asp-for="Class" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Update</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

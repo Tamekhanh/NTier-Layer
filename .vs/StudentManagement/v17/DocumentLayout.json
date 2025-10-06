@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BT\\2531_Software_Architecture\\NTier\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.api\\studentmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{565ACF8F-E6C7-4DFC-B46F-BFE4E0BBF51F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\studentmanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836D0D70-3862-4CD7-9204-F2D489BA813C}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836D0D70-3862-4CD7-9204-F2D489BA813C}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365317A3-750E-4782-84C1-9A3141CF12AC}|StudentManagement.UI\\StudentManagement.UI.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365317A3-750E-4782-84C1-9A3141CF12AC}|StudentManagement.UI\\StudentManagement.UI.csproj|solutionrelative:studentmanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365317A3-750E-4782-84C1-9A3141CF12AC}|StudentManagement.UI\\StudentManagement.UI.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{365317A3-750E-4782-84C1-9A3141CF12AC}|StudentManagement.UI\\StudentManagement.UI.csproj|solutionrelative:studentmanagement.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836D0D70-3862-4CD7-9204-F2D489BA813C}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|d:\\bt\\2531_software_architecture\\ntier\\studentmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836D0D70-3862-4CD7-9204-F2D489BA813C}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|solutionrelative:studentmanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentManagement.Api.http",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\StudentManagement.Api.http",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\StudentManagement.Api.http",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\StudentManagement.Api.http",
+              "RelativeToolTip": "StudentManagement.Api\\StudentManagement.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-06T12:46:10.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\appsettings.json",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T12:35:39.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:35:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Program.cs",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Api\\Program.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:35:09.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:21:55.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.UI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.UI\\Program.cs",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.UI\\Program.cs",
+              "RelativeToolTip": "StudentManagement.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:22:27.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentManagement.UI\\appsettings.json",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.UI\\appsettings.json",
+              "RelativeToolTip": "StudentManagement.UI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-06T12:20:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\BT\\2531_Software_Architecture\\NTier\\StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "StudentManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:04:35.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

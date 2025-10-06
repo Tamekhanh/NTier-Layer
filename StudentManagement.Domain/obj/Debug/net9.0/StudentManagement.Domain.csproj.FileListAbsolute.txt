@@ -1,0 +1,11 @@
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\bin\Debug\net9.0\StudentManagement.Domain.deps.json
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\bin\Debug\net9.0\StudentManagement.Domain.dll
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\bin\Debug\net9.0\StudentManagement.Domain.pdb
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.AssemblyInfoInputs.cache
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.AssemblyInfo.cs
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.csproj.CoreCompileInputs.cache
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.dll
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\refint\StudentManagement.Domain.dll
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\StudentManagement.Domain.pdb
+D:\BT\2531_Software_Architecture\NTier\StudentManagement.Domain\obj\Debug\net9.0\ref\StudentManagement.Domain.dll

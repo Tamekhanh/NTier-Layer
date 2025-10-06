@@ -1,0 +1,39 @@
+@model IEnumerable<StudentManagement.Application.DTOs.StudentDto>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h2>Student List</h2>
+<a asp-action="Create" class="btn btn-primary mb-2">Add New Student</a>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Address</th>
+            <th>DOB</th>
+            <th>MSSV</th>
+            <th>Year</th>
+            <th>Class</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Address</td>
+            <td>@s.Dob?.ToString("dd/MM/yyyy")</td>
+            <td>@s.Mssv</td>
+            <td>@s.Year</td>
+            <td>@s.Class</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@s.Id" class="btn btn-warning btn-sm">Edit</a>
+                <a asp-action="Delete" asp-route-id="@s.Id" class="btn btn-danger btn-sm">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
